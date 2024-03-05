@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @h1me01
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Calculus and Machine Learning
 
 <!---
 h1me01/h1me01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
